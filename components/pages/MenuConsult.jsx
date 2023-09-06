@@ -4,7 +4,7 @@ import Button from "../shared/Button";
 
 export default function MenuConsult() {
   return (
-    <section className=" md:mt-10 grid grid-cols-1 md:grid-cols-3 ">
+    <section className=" md:mt-10 grid grid-cols-1 md:grid-cols-3 bg-white ">
       <FadeIn className="col-span-1  ">
         <div className="flex flex-col items-start gap-4 md:gap-14 justify-center p-14 h-full md:-mt-14">
           <h1 className="text-3xl italic -ml-10 md:ml-6 ">La carte</h1>

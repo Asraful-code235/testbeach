@@ -3,7 +3,7 @@ import { FadeIn } from "../animation/FadeIn";
 
 export default function FestiveInfo() {
   return (
-    <section className="grid grid-cols-1 bg-[#f0ede2] md:grid-cols-3 h-full md:min-h-screen text-gray-900">
+    <section className="grid grid-cols-1 bg-white md:grid-cols-3 h-full md:min-h-screen text-gray-900">
       <div className="order-2 md:order-1 col-span-1 md:col-span-2">
         <Image
           src={"/images/image2.jpg"}

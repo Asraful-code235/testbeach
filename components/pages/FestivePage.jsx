@@ -4,7 +4,7 @@ import Button from "../shared/Button";
 export default function FestivePage() {
   return (
     <FadeIn>
-      <section className=" min-h-screen gap-10 md:gap-16 font-bold flex-col text-white flex items-center justify-center  w-full h-full bg-[url('/images/bg.jpg')] bg-no-repeat bg-cover bg-center z-10 ">
+      <section className=" min-h-screen bg-white gap-10 md:gap-16 font-bold flex-col text-white flex items-center justify-center  w-full h-full bg-[url('/images/bg.jpg')] bg-no-repeat bg-cover bg-center z-10 ">
         <strong className=" text-2xl md:text-5xl px-4 text-center">
           NAO BEACH la festive
         </strong>

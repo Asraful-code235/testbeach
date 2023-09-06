@@ -1,6 +1,6 @@
 export default function ContactPage() {
   return (
-    <section className="min-h-[50vh] w-full flex items-center justify-center gap-10 flex-col">
+    <section className="min-h-[50vh] bg-white w-full flex items-center justify-center gap-10 flex-col">
       <div className="font-normal text-center space-y-4">
         <h1>Newsletter</h1>
         <p>Inscrivez-vous pour recevoir nos actualités.</p>

@@ -4,7 +4,7 @@ import Button from "../shared/Button";
 
 export default function Clubs() {
   return (
-    <section className="px-4 md:mt-10 grid grid-cols-1 md:grid-cols-2 md:mx-28 ">
+    <section className="px-4 md:mt-10 grid grid-cols-1 md:grid-cols-2 md:mx-28 bg-white">
       <section className=" col-span-1 order-2 md:order-1 flex items-center justify-center max-h-[60vh] md:gap-4 lg:gap-16 p-14 py-16 bg-[#f0ede2]">
         <div className="space-y-2 h-full">
           <Image

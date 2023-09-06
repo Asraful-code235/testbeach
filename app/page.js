@@ -9,7 +9,7 @@ import MenuConsult from "@/components/pages/MenuConsult";
 
 export default function Home() {
   return (
-    <>
+    <div className="!bg-white ">
       <Hero />
       <FestiveInfo />
       <BgCoverInfo />
@@ -18,6 +18,6 @@ export default function Home() {
       <GroupCarousel />
       <FestivePage />
       <ContactPage />
-    </>
+    </div>
   );
 }

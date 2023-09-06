@@ -5,7 +5,7 @@ import { FadeIn } from "../animation/FadeIn";
 export default function BgCoverInfo() {
   return (
     <FadeIn>
-      <section className="min-h-screen md:max-h-[40vh] relative ">
+      <section className="min-h-screen md:max-h-[40vh] relative bg-white">
         <Image
           src={"/images/image4.jpg"}
           alt=""
