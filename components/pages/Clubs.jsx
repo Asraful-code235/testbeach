@@ -38,7 +38,7 @@ export default function Clubs() {
 
             <Button
               variant="light"
-              extraClassName="border border-orange-400 text-orange-400 w-fit md:mt-10 text-black border-[1px] border-gray-500"
+              extraClassName=" w-fit md:mt-10 !text-[#bf5d38] border-[1px] !border-[#bf5d38]"
             >
               Reserver
             </Button>

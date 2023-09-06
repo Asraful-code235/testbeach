@@ -20,7 +20,7 @@ export default function MenuConsult() {
 
             <Button
               variant="light"
-              extraClassName="border border-orange-400 text-orange-400 w-fit text-black border-[1px] border-gray-500 "
+              extraClassName=" w-fit !text-[#bf5d38] border-[1px] !border-[#bf5d38] "
             >
               Consulter la carte
             </Button>
